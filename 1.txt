@@ -2,3 +2,4 @@ hello gitHub
 哈哈哈哈
 呼哈哈哈
 这是B提交的内容
+this is test
